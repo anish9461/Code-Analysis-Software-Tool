@@ -1,0 +1,200 @@
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\App.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.baml
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\App.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.baml
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\App.g.cs
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\App.g.cs
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\App.g.cs
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\Environment.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\IService.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\Environment.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\Environment.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\IService.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\Environment.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\IService.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\IService.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\App.g.cs
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigatorClient\obj\Debug\NavigatorClient.pdb

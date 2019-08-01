@@ -1,0 +1,61 @@
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe.config
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.pdb
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.pdb
+C:\Anish fall18\SMA\Proj3_draft\Toker\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA\Proj3_draft\Toker\bin\Debug\Toker.dll
+C:\Anish fall18\SMA\Proj3_draft\Toker\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA\Proj3_draft\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+C:\Anish fall18\SMA\Proj3_draft\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA\Proj3_draft\Toker\obj\Debug\Toker.dll
+C:\Anish fall18\SMA\Proj3_draft\Toker\obj\Debug\Toker.pdb
+C:\Anish fall18\SMA\Proj3_draft1\Toker\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA\Proj3_draft1\Toker\bin\Debug\Toker.dll
+C:\Anish fall18\SMA\Proj3_draft1\Toker\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA\Proj3_draft1\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA\Proj3_draft1\Toker\obj\Debug\Toker.dll
+C:\Anish fall18\SMA\Proj3_draft1\Toker\obj\Debug\Toker.pdb
+C:\Anish fall18\SMA\Proj3_draft1\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+C:\Anish fall18\SMA\AnishNesarkar-project3\Toker\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA\AnishNesarkar-project3\Toker\bin\Debug\Toker.dll
+C:\Anish fall18\SMA\AnishNesarkar-project3\Toker\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA\AnishNesarkar-project3\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA\AnishNesarkar-project3\Toker\obj\Debug\Toker.dll
+C:\Anish fall18\SMA\AnishNesarkar-project3\Toker\obj\Debug\Toker.pdb
+C:\Anish fall18\SMA\AnishNesarkar-project3\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\Toker\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\Toker\bin\Debug\Toker.dll
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\Toker\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\Toker\obj\Debug\Toker.dll
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\Toker\obj\Debug\Toker.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Toker\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Toker\bin\Debug\Toker.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Toker\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Toker\obj\Debug\Toker.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Toker\obj\Debug\Toker.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Toker\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Toker\bin\Debug\Toker.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Toker\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Toker\obj\Debug\Toker.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Toker\obj\Debug\Toker.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\bin\Debug\Toker.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\bin\Debug\Toker.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\bin\Debug\Toker.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\obj\Debug\Toker.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\obj\Debug\Toker.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\bin\Debug\Toker.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\bin\Debug\Toker.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\bin\Debug\Toker.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\obj\Debug\Toker.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Toker\obj\Debug\Toker.pdb

@@ -1,0 +1,64 @@
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\FileMgr\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\FileMgr\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\FileMgr\bin\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\FileMgr\bin\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\FileMgr\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\FileMgr\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\FileMgr\obj\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\FileMgr\obj\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\FileMgr\bin\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\FileMgr\bin\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\FileMgr\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\FileMgr\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\FileMgr\obj\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\bin\Debug\Environment.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\bin\Debug\Environment.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\obj\Debug\FileMgr.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\bin\Debug\FileMgr.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\bin\Debug\FileMgr.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\bin\Debug\Environment.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\bin\Debug\Environment.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\obj\Debug\FileMgr.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\FileMgr\obj\Debug\FileMgr.pdb

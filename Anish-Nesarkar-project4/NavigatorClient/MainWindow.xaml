@@ -1,0 +1,213 @@
+﻿<Window x:Class="Navigator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Navigator"
+        mc:Ignorable="d"
+        
+    Closed="Window_Closed"
+        Title="Code Analyzer Client" Height="600" Width="750">
+    <Window.Resources>
+        
+        <!-- 
+    /////////////////////////////////////////////////////////////////////////
+    // NavigatorClient.xaml - Demonstrates Directory Navigation in WPF App //
+    // ver 2.0                                                             //
+    // Jim Fawcett, CSE681 - Software Modeling and Analysis, Fall 2017     //
+    /////////////////////////////////////////////////////////////////////////
+    -->
+        <Style TargetType="{x:Type Label}">
+            <Setter Property="Foreground" Value="DarkSlateBlue" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Foreground" Value="DarkBlue" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+        <Style TargetType="{x:Type TabItem}">
+            <Setter Property="Foreground" Value="DarkSlateBlue" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontSize" Value="16" />
+        </Style>
+        <Style TargetType="{x:Type ListBox}">
+            <Setter Property="Foreground" Value="DarkSlateBlue" />
+            <Setter Property="FontWeight" Value="Medium" />
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Border Padding="10" Background="#ddd" BorderThickness="1 4 1 1" BorderBrush="DarkCyan">
+            <TabControl>
+
+
+
+                <TabItem  Name="RemoteGetFiles" Header="Navigate" Width="100">
+                    <!--- define top-level grid with four cells: local files & dirs, and remote files & dirs -->
+                    <Grid Background="AntiqueWhite">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="120"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="120"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="194*"></ColumnDefinition>
+                            <ColumnDefinition Width="185*"/>
+                            <ColumnDefinition Width="143*"/>
+                            <ColumnDefinition Width="193*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <Button Grid.Row="0" Grid.Column="0" x:Name="GetFiles" Click="RemoteTop_Click"  RenderTransformOrigin="5.475,0.772" Content="Get Files" Margin="46,32,55,0" Height="36" VerticalAlignment="Top" BorderThickness="4 4 4 4" BorderBrush="DarkCyan"/>
+                        <!-- define local files view -->
+                        <Grid Grid.Column="0" Grid.Row="1">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Border Grid.Row="0" BorderBrush="Blue" BorderThickness="1">
+                                <StackPanel Grid.Row="0" Height="30" Orientation="Horizontal">
+                                    <Label Background="AliceBlue" Height="30" Width="83" Content="Directory"/>
+
+                                    <Button x:Name="RemoteUp" Width="110" Click="RemoteUp_Click" BorderThickness="4 4 4 4" BorderBrush="DarkCyan" Content="Up "/>
+                                </StackPanel>
+                            </Border>
+                            <Grid Grid.Column="0" Grid.Row="1">
+                                <Border BorderBrush="Black" BorderThickness="2" >
+                                    <ScrollViewer Grid.Row="1" Grid.Column="0">
+                                        <ListBox Grid.Row ="1"  x:Name="remoteDirs" MouseDoubleClick="remoteDirs_MouseDoubleClick" Height="230"  />
+                                    </ScrollViewer>
+                                </Border>
+                            </Grid>
+                        </Grid>
+
+                        
+
+                        <Grid Grid.Row="1" Grid.Column="1">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Border Grid.Row="0" BorderBrush="Blue" BorderThickness="1">
+                                <StackPanel Grid.Row="0" Height="30" Orientation="Horizontal">
+                                    <Label Grid.Column="1" Grid.Row="0" HorizontalContentAlignment="Center" Background="AliceBlue" Height="30" Width="180" Content="Server Files"/>
+                                </StackPanel>
+                            </Border>
+                            <Border Grid.Row="1" BorderBrush="Black" BorderThickness="2">
+                                <ScrollViewer Grid.Row="1">
+                                    <ListBox Grid.Row ="1"  x:Name="remoteFiles" Height="230" SelectionMode="Multiple"  />
+                                </ScrollViewer>
+                            </Border>
+                        </Grid>
+
+                        <Grid Grid.Row="1" Grid.Column="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="93*"></RowDefinition>
+                                <RowDefinition Height="88*"></RowDefinition>
+                                <RowDefinition Height="91*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Button Grid.Row="0" x:Name="Add_Files" Click="Add_Files_Click" Content="Add" Height="45"  BorderThickness="4 4 4 4" BorderBrush="DarkCyan" Margin="32,36,22.333,10.333" />
+                            <Button Grid.Row="2" x:Name="Clear" Click="Clear_Click" Content="Clear" Height="45" BorderThickness="4 4 4 4" BorderBrush="DarkCyan" Margin="32,30.667,22.333,10"/>
+
+                        </Grid>
+
+                        <Grid Grid.Row="1" Grid.Column="3" >
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Border Grid.Row="0" BorderBrush="Blue" BorderThickness="1" >
+                                <StackPanel Grid.Row="0" Height="30" Orientation="Horizontal">
+                                    <Label Grid.Row="0" HorizontalContentAlignment="Center" Background="AliceBlue" Height="30" Width="188" Content="Selected Files"/>
+                                </StackPanel>
+                            </Border>
+                            <Border Grid.Column="3" Grid.Row="1" BorderBrush="Black" BorderThickness="2" >
+                                <ScrollViewer Grid.Row="1" >
+                                    <ListBox Grid.Row ="1"  x:Name="remoteFiles1" Height="230" SelectionMode="Multiple"  />
+                                </ScrollViewer>
+                            </Border>
+                        </Grid>
+
+                        <Grid Grid.Row="2" Grid.Column="3">
+                            <Button x:Name="Analyze" Click="Analyze_Click" Content="Analyze" Height="36" VerticalAlignment="Top" BorderThickness="4 4 4 4" BorderBrush="DarkCyan" Margin="41,40,44.667,0" />
+
+                        </Grid>
+
+                        <Grid Grid.Row="0" Grid.Column="3">
+                            <Label x:Name="connection" Content="Connected!" HorizontalContentAlignment="Center">
+                                
+                            </Label>
+                            
+                        </Grid>
+                        
+                    </Grid>
+                </TabItem>
+
+
+                <TabItem Name="RemoteGetTypetable" Header="TypeAnalysis" Width="110">
+                    <Grid Background="AntiqueWhite">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="100"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Button x:Name="Typetable" Grid.Row="0" Click="Typetable_Click"  RenderTransformOrigin="5.475,0.772" Content="Get TypeTable" Margin="46,32,542.333,0" Height="36" VerticalAlignment="Top" BorderThickness="4 4 4 4" BorderBrush="DarkCyan"/>
+                        <Grid Grid.Row="1">
+                            <Border BorderBrush="Black" BorderThickness="2">
+                            <ScrollViewer Grid.Row="1" Margin="0,0,0.333,-2" Grid.RowSpan="2">
+                                    <TextBlock Name="typetable">
+                                    </TextBlock>
+                            </ScrollViewer>
+                            </Border>
+                        </Grid>
+                    </Grid>
+                </TabItem>
+
+
+                <TabItem Name="RemoteGetDependency" Header="Dependency" Width="110">
+
+                    <Grid Background="AntiqueWhite">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="100"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Button x:Name="GetDependency" Click="GetDependency_Click"  RenderTransformOrigin="5.475,0.772" Content="Get Dependency Result" Margin="46,32,499.333,0" Height="36" VerticalAlignment="Top" BorderThickness="4 4 4 4" BorderBrush="DarkCyan"/>
+                        <Grid Grid.Row="1">
+                            <Border BorderBrush="Black" BorderThickness="2">
+                            <ScrollViewer Grid.Row="1" Margin="0,0,0.333,-2" Grid.RowSpan="2">
+                                <TextBlock Name="dependency">
+
+                                </TextBlock>
+                            </ScrollViewer>
+                            </Border>
+                        </Grid>
+                    </Grid>
+
+                </TabItem>
+
+                <TabItem Name="RemoteGetScc" Header="SCC" Width="110">
+
+                    <Grid Background="AntiqueWhite">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="100"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Button x:Name="GetScc" Click="GetScc_Click"  RenderTransformOrigin="5.475,0.772" Content="Get Scc Result" Margin="46,32,548.333,0" Height="36" VerticalAlignment="Top" BorderThickness="4 4 4 4" BorderBrush="DarkCyan"/>
+                        <Grid Grid.Row="1">
+                            <Border BorderThickness="2" BorderBrush="Black">
+                            <ScrollViewer Grid.Row="1" Margin="0,0,0.333,-2" Grid.RowSpan="2">
+                                <TextBlock Name="scc">
+
+                                </TextBlock>
+                            </ScrollViewer>
+                            </Border>
+                        </Grid>
+                    </Grid>
+
+                </TabItem>
+
+            </TabControl>
+
+        </Border>
+    </Grid>
+</Window>

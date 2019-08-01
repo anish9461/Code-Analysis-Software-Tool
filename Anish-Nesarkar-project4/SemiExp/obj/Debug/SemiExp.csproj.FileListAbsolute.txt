@@ -1,0 +1,88 @@
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\bin\Debug\SemiExp.dll
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\bin\Debug\SemiExp.pdb
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\bin\Debug\Toker.dll
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\obj\Debug\SemiExp.dll
+C:\Anish fall18\SMA\Proj3_draft\SemiExp\obj\Debug\SemiExp.pdb
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\bin\Debug\SemiExp.dll
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\bin\Debug\SemiExp.pdb
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\bin\Debug\Toker.dll
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\obj\Debug\SemiExp.dll
+C:\Anish fall18\SMA\Proj3_draft1\SemiExp\obj\Debug\SemiExp.pdb
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\bin\Debug\SemiExp.dll
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\bin\Debug\SemiExp.pdb
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\bin\Debug\Toker.dll
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\obj\Debug\SemiExp.dll
+C:\Anish fall18\SMA\AnishNesarkar-project3\SemiExp\obj\Debug\SemiExp.pdb
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\bin\Debug\SemiExp.dll
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\bin\Debug\SemiExp.pdb
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\bin\Debug\Toker.dll
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\obj\Debug\SemiExp.dll
+C:\Anish fall18\SMA\AnishNesarkar-project3_ver1.1\SemiExp\obj\Debug\SemiExp.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\bin\Debug\SemiExp.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\bin\Debug\SemiExp.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\bin\Debug\Toker.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\obj\Debug\SemiExp.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\SemiExp\obj\Debug\SemiExp.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\bin\Debug\SemiExp.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\bin\Debug\SemiExp.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\bin\Debug\Toker.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\obj\Debug\SemiExp.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\SemiExp\obj\Debug\SemiExp.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\SemiExp.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\SemiExp.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\Toker.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\Toker.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\Toker.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\obj\Debug\SemiExp.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\obj\Debug\SemiExp.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\SemiExp.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\SemiExp.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\Toker.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\Toker.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\bin\Debug\Toker.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\obj\Debug\SemiExp.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\SemiExp\obj\Debug\SemiExp.pdb

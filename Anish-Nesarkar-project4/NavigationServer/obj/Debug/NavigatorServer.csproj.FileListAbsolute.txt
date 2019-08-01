@@ -1,0 +1,214 @@
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\NavigationServer.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\NavigationServer.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\NavigationServer.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\TestUtilities.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\obj\Debug\NavigatorServer.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\obj\Debug\NavigatorServer.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\obj\Debug\NavigatorServer.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\obj\Debug\NavigationServer.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\NavigationServer\obj\Debug\NavigationServer.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\NavigationServer.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\NavigationServer.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\NavigationServer.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\CodeAnalysis.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\DemoExecutive.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\DependencyAnalyzer.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Display.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Element.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\sccGraph.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\SemiExp.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\TestUtilities.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Toker.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Parser.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\CodeAnalysis.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\CodeAnalysis.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\DemoExecutive.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\DemoExecutive.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\DependencyAnalyzer.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\DependencyAnalyzer.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Display.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Display.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Element.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\sccGraph.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\sccGraph.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\SemiExp.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\SemiExp.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Parser.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\bin\Debug\Parser.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\obj\Debug\NavigatorServer.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\obj\Debug\NavigatorServer.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\obj\Debug\NavigatorServer.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\obj\Debug\NavigationServer.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\NavigationServer\obj\Debug\NavigationServer.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\NavigationServer.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\NavigationServer.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\NavigationServer.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\CodeAnalysis.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\DemoExecutive.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\DependencyAnalyzer.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Display.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Element.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\FileMgr.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\sccGraph.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\SemiExp.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\TestUtilities.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Toker.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Parser.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\CodeAnalysis.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\CodeAnalysis.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\DemoExecutive.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\DemoExecutive.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\DependencyAnalyzer.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\DependencyAnalyzer.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Display.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Display.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Element.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\FileMgr.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\sccGraph.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\sccGraph.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\SemiExp.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\SemiExp.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Toker.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Toker.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Parser.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\bin\Debug\Parser.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\obj\Debug\NavigatorServer.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\obj\Debug\NavigatorServer.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\obj\Debug\NavigatorServer.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\obj\Debug\NavigationServer.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\NavigationServer\obj\Debug\NavigationServer.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\NavigationServer.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\NavigationServer.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\NavigationServer.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\CodeAnalysis.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DemoExecutive.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DependencyAnalyzer.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Display.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Element.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Environment.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\FileMgr.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\IService.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\PluggableCommService.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\sccGraph.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\SemiExp.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\TestUtilities.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Toker.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Parser.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\CodeAnalysis.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\CodeAnalysis.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DemoExecutive.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DemoExecutive.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DependencyAnalyzer.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DependencyAnalyzer.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Display.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Display.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Element.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Environment.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\FileMgr.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\FileMgr.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\IService.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\IService.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\PluggableCommService.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\PluggableCommService.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\sccGraph.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\sccGraph.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\SemiExp.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\SemiExp.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\TestUtilities.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\TestUtilities.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Toker.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Toker.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Parser.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Parser.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\obj\Debug\NavigatorServer.csprojAssemblyReference.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\obj\Debug\NavigatorServer.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\obj\Debug\NavigatorServer.csproj.CopyComplete
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\obj\Debug\NavigationServer.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\obj\Debug\NavigationServer.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\NavigationServer.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\NavigationServer.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\NavigationServer.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\CodeAnalysis.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DemoExecutive.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DependencyAnalyzer.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Display.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Element.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Environment.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\FileMgr.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\IService.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\sccGraph.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\SemiExp.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\TestUtilities.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Toker.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Parser.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\CodeAnalysis.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\CodeAnalysis.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DemoExecutive.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DemoExecutive.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DependencyAnalyzer.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\DependencyAnalyzer.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Display.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Display.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Element.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Environment.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\FileMgr.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\FileMgr.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\IService.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\IService.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\sccGraph.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\sccGraph.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\SemiExp.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\SemiExp.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Toker.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Toker.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Parser.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\bin\Debug\Parser.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\obj\Debug\NavigatorServer.csprojAssemblyReference.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\obj\Debug\NavigatorServer.csproj.CoreCompileInputs.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\obj\Debug\NavigatorServer.csproj.CopyComplete
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\obj\Debug\NavigationServer.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\NavigationServer\obj\Debug\NavigationServer.pdb

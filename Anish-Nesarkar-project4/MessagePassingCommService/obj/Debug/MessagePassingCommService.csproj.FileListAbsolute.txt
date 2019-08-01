@@ -1,0 +1,93 @@
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.exe.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.exe
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.exe
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\IService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\IService.dll.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.exe.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\obj\Debug\PluggableCommService.exe
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\obj\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\obj\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\NavigatorClientServer\MessagePassingCommService\obj\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\obj\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\MessagePassingCommService\obj\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CopyComplete
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\obj\Debug\PluggableCommService.exe
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\MessagePassingCommService\obj\Debug\PluggableCommService.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\PluggableCommService.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\PluggableCommService.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\PluggableCommService.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\Environment.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\IService.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\Environment.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\IService.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\IService.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojAssemblyReference.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CopyComplete
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\obj\Debug\PluggableCommService.exe
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\obj\Debug\PluggableCommService.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\PluggableCommService.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\PluggableCommService.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\PluggableCommService.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\Environment.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\IService.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\Environment.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\IService.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\IService.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojAssemblyReference.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CopyComplete
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\obj\Debug\PluggableCommService.exe
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\MessagePassingCommService\obj\Debug\PluggableCommService.pdb

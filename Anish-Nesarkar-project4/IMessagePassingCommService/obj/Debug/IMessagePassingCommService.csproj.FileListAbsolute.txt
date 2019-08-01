@@ -1,0 +1,46 @@
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.pdb
+C:\su\temp\NavigatorClient3\IService\bin\Debug\IService.dll.config
+C:\su\temp\NavigatorClient3\IService\bin\Debug\IService.dll
+C:\su\temp\NavigatorClient3\IService\bin\Debug\IService.pdb
+C:\su\temp\NavigatorClient3\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient3\IService\obj\Debug\IService.dll
+C:\su\temp\NavigatorClient3\IService\obj\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\NavigatorClientServer\IMessagePassingCommService\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\IMessagePassingCommService\obj\Debug\IService.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\IMessagePassingCommService\obj\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\IMessagePassingCommService\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\IMessagePassingCommService\obj\Debug\IService.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\IMessagePassingCommService\obj\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\IMessagePassingCommService\bin\Debug\IService.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\IMessagePassingCommService\obj\Debug\IService.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\IMessagePassingCommService\obj\Debug\IService.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\bin\Debug\IService.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\obj\Debug\IService.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\obj\Debug\IService.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\bin\Debug\IService.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\obj\Debug\IService.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\IMessagePassingCommService\obj\Debug\IService.pdb

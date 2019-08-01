@@ -1,0 +1,29 @@
+C:\Anish fall18\SMA proj4\NavigatorClientServer\Environment\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\Environment\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\NavigatorClientServer\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\NavigatorClientServer\Environment\obj\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\NavigatorClientServer\Environment\obj\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Environment\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Environment\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Environment\obj\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Proj4_\Environment\obj\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Environment\bin\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Environment\bin\Debug\Environment.pdb
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Environment\obj\Debug\Environment.dll
+C:\Anish fall18\SMA proj4\SMAProj4_2\Anish_Nesarkar_Proj4\Environment\obj\Debug\Environment.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\bin\Debug\Environment.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\bin\Debug\Environment.pdb
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\obj\Debug\Environment.dll
+C:\Users\anish\Desktop\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\obj\Debug\Environment.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\bin\Debug\Environment.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\bin\Debug\Environment.pdb
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\obj\Debug\Environment.dll
+C:\Anish fall18\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Anish-Nesarkar-project4\Environment\obj\Debug\Environment.pdb
