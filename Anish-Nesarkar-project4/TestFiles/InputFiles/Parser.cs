@@ -2,7 +2,7 @@
 // Parser.cs - Parser detects code constructs defined by rules           //
 // ver 1.0                                                              //
 // Language:    C#, 2008, .Net Framework 4.0                           //
-// Author:      Chandana Rao                                          //
+// Author:      Anish Nesarkar                                        //
 // Source:      Jim Fawcett                                          //
 //////////////////////////////////////////////////////////////////////
 /*
